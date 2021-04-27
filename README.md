@@ -1,4 +1,4 @@
-Simple plots that allows to do quick analysis using Tezos blockchain data about QuipuSwap smart contract storage. Powered by TzKT API.
+Plotting Tezos blockchain QuipuSwap trading history data. Powered by TzKT API.
 
 ### How to run:
 1. Click [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ztepler/quipuswap-tezos-analysis-colab/blob/main/QuipuSwap_Tezos_Pool_Analysis.ipynb) to run notebook in Google Colab cloud (hold Ctrl to open colab in the new tab)
